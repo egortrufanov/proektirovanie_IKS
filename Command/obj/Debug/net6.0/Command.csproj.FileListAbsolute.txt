@@ -1,0 +1,15 @@
+C:\Users\NeoNe\Desktop\Command\bin\Debug\net6.0\Command.exe
+C:\Users\NeoNe\Desktop\Command\bin\Debug\net6.0\Command.deps.json
+C:\Users\NeoNe\Desktop\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+C:\Users\NeoNe\Desktop\Command\bin\Debug\net6.0\Command.dll
+C:\Users\NeoNe\Desktop\Command\bin\Debug\net6.0\ref\Command.dll
+C:\Users\NeoNe\Desktop\Command\bin\Debug\net6.0\Command.pdb
+C:\Users\NeoNe\Desktop\Command\obj\Debug\net6.0\Command.csproj.AssemblyReference.cache
+C:\Users\NeoNe\Desktop\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NeoNe\Desktop\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+C:\Users\NeoNe\Desktop\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+C:\Users\NeoNe\Desktop\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\NeoNe\Desktop\Command\obj\Debug\net6.0\Command.dll
+C:\Users\NeoNe\Desktop\Command\obj\Debug\net6.0\ref\Command.dll
+C:\Users\NeoNe\Desktop\Command\obj\Debug\net6.0\Command.pdb
+C:\Users\NeoNe\Desktop\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
